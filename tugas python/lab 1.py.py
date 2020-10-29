@@ -13,7 +13,7 @@ print(w, x, y, z)
 print(w, x, y, z, sep=',')
 print(w, x, y, z, sep='')
 print(w, x, y, z, sep=':')
-print(w, x, ,y z, sep='-----')
+print(w, x, y, z, sep='-----')
 
 # string format
 print(0, 10**0)
